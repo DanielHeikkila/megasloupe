@@ -1,8 +1,11 @@
-![alt text](https://github.com/megasloupe/megasloupe/blob/main/header.png?raw=true)
-
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/megasloupe/megasloupe/blob/main/header.png">
- <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/megasloupe/megasloupe/blob/main/header.png">
+ <img alt="Shows a differently coloured header depending on colour mode." src="https://github.com/megasloupe/megasloupe/blob/main/header.png">
+</picture>
+
+<picture>
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/megasloupe/megasloupe/blob/main/header.png">
+ <img alt="Shows a differently coloured header depending on colour mode." src="https://github.com/megasloupe/megasloupe/blob/main/header.png">
 </picture>
 
 ## I am currently working on a warehouse machinery simulator in Unity 3D, you can follow my progress on my LinkedIn page at https://www.linkedin.com/in/daniel-heikkil%C3%A4-7045a219b/
