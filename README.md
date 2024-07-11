@@ -1,11 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/megasloupe/megasloupe/blob/main/header.png">
- <img alt="Shows a differently coloured header depending on colour mode." src="https://github.com/megasloupe/megasloupe/blob/main/header.png">
-</picture>
-
-<picture>
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/megasloupe/megasloupe/blob/main/header.png">
- <img alt="Shows a differently coloured header depending on colour mode." src="https://github.com/megasloupe/megasloupe/blob/main/header%20white.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/megasloupe/megasloupe/blob/main/header.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/megasloupe/megasloupe/blob/main/header%20white.jpg">
+  <img alt="Shows a differently coloured header depending on colour mode." src="https://github.com/megasloupe/megasloupe/blob/main/header.png">
 </picture>
 
 ## I am currently working on a warehouse machinery simulator in Unity 3D, you can follow my progress on my LinkedIn page at https://www.linkedin.com/in/daniel-heikkil%C3%A4-7045a219b/
