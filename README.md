@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## I am currently working on a warehouse machinery simulator in Unity 3D, you can follow my progress on my LinkedIn page at https://www.linkedin.com/in/daniel-heikkil%C3%A4-7045a219b/
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megasloupe)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **megasloupe/megasloupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
