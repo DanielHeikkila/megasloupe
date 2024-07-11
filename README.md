@@ -5,7 +5,7 @@
 </picture>
 
 ## I am currently working on a warehouse machinery simulator in Unity 3D, you can follow my progress on my LinkedIn page at https://www.linkedin.com/in/daniel-heikkil%C3%A4-7045a219b/
-[![Daniel's GitHub stats dark](https://github-readme-stats.vercel.app/api?username=megasloupe&hide=contribs,prs,issues&show_icons=true&theme=blue-green&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=megasloupe&hide=contribs,prs,issues&show_icons=true&theme=blue-green&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megasloupe&hide=ShaderLab,GLSL,HLSL,GAP&langs_count=4&theme=blue-green&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **megasloupe/megasloupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
