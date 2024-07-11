@@ -5,8 +5,8 @@
 </picture>
 
 ## I am currently working on a warehouse machinery simulator in Unity 3D, you can follow my progress on my LinkedIn page at https://www.linkedin.com/in/daniel-heikkil%C3%A4-7045a219b/
-[![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=megasloupe&hide=ShaderLab,GLSL,HLSL,GAP&langs_count=4&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=megasloupe&hide=ShaderLab,GLSL,HLSL,GAP&langs_count=4&theme=blue-green&bg_color=45,#FFFFFF,#F6F8FA,#EAEEF2)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=megasloupe&hide=ShaderLab,GLSL,HLSL,GAP&langs_count=4&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=megasloupe&hide=ShaderLab,GLSL,HLSL,GAP&langs_count=4&theme=blue-green&bg_color=45,#FFFFFF,#F6F8FA,#EAEEF2)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=megasloupe&hide=ShaderLab,GLSL,HLSL,GAP&langs_count=4&theme=blue-green&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=megasloupe&hide=ShaderLab,GLSL,HLSL,GAP&langs_count=4&theme=blue-green&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!--
