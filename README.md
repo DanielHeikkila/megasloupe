@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/megasloupe/megasloupe/blob/main/header.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/megasloupe/megasloupe/blob/main/header%20white%201.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/megasloupe/megasloupe/blob/main/header%20white.jpg">
   <img alt="Shows a differently coloured header depending on colour mode." src="https://github.com/megasloupe/megasloupe/blob/main/header.png">
 </picture>
 
