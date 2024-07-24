@@ -12,7 +12,6 @@
 [![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=megasloupe&hide=ShaderLab,GLSL,HLSL,GAP&langs_count=4&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=megasloupe&hide=ShaderLab,GLSL,HLSL,GAP&langs_count=4&theme=blue-green&bg_color=45,#FFFFFF,#F6F8FA,#EAEEF2&text_color=45,#2F97C1,#2F97C2,#2F97C3)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Daniel's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danielheikkila)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs dark](https://github-readme-stats.vercel.app/api/wakatime?username=danielheikkila&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs light](https://github-readme-stats.vercel.app/api/wakatime?username=danielheikkila&theme=blue-green&bg_color=45,#FFFFFF,#F6F8FA,#EAEEF2&text_color=45,#2F97C1,#2F97C2,#2F97C3)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
